@@ -1,4 +1,3 @@
 ## Welcome to ResumeSticker.com
 
-![mcgonagle](stickers/mcgonagle.jpg "McGonagle's Career Sticker")
-
+![mcgonagle](stickers/mcgonagle.jpg "McGonagle's Resume Sticker")
